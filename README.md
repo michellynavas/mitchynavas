@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfil do Github! <h1>
 
-- 😸 Me chamo <b>Mitchy Navas<b>, tenho 22 anos e curso Análise e Desenvolvimento de Sistemas
+- 😸 Me chamo <b>Michelly Navas<b>, tenho 22 anos e curso Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente trabalho no ramo da tecnologia, prestando suporte de software na empresa Concentrix
 - 🌱 Estudando HTML5, CSS, Javascript, C e Python
 - ✉️ Contate-me por email: mitchy.navas@outlook.com
@@ -8,9 +8,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/mitchynavas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitchynavas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchynavas&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/michellynavas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michellynavas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellynavas&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div style="display: inline_block"><br>
